@@ -19,7 +19,7 @@ Welcome to the Monthly Budget Tracker! This Python-based budget management tool 
 
 ### Installation:
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Aniket-bhardwaj/CS50_Project
 
    
    git clone 
